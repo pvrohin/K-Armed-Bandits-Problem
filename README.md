@@ -69,9 +69,13 @@ The implementation generates two key visualizations:
    - Shows how total reward accumulates for each strategy
    - Helps understand which approach maximizes long-term gains
 
+![Average Reward vs Steps](Avgrewvssteps.png)
+
 2. **Percentage of Optimal Actions**
    - Shows how often each strategy chooses the best action
    - Indicates learning effectiveness
+
+![Optimal Action vs Steps](Optimal%20actionvssteps.png)
 
 ## Files
 
